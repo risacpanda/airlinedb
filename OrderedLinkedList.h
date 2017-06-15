@@ -4,7 +4,7 @@
  *LinkedList.h and turns it into an ordered Linked List by
  * Last Name in alphabetical order
  *
- * Risa Chan
+ * 
  * Assignment 2
  */
 
