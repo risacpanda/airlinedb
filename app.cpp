@@ -5,7 +5,7 @@
  * removing, and listing information about each flight and
  * passenger
  *
- * Risa Chan
+ * 
  * Assignment 2
  */
 
