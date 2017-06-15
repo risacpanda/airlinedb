@@ -1,5 +1,5 @@
 /*The header file of Passenger
- * Risa Chan
+ * 
  * Assignment 2
  */
 
