@@ -4,7 +4,7 @@
  *contains the basic
  *linked list
  *
- *Risa Chan
+ *
  *Assignment 2
  */
 
