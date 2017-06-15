@@ -4,7 +4,7 @@
  *  Created on: May 13, 2017
  * This cpp file contains info
  * about the Passenger
- * Risa Chan
+ * 
  * Assignment 2
  */
 
